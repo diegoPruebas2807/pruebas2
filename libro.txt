@@ -1,0 +1,7 @@
+----------------------- libro.txt -----------------------
+EL LIBRO MAS FAMOSO DEL MUNDO
+AUTORES: PRUEBA1 Y PRUEBA2
+CAPITULO UNO
+CAPITULO DOS
+CAPITULO TRES
+-----------------------end----------------------------------
